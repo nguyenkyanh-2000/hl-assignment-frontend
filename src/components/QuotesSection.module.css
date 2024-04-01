@@ -4,6 +4,13 @@
   justify-content: center;
   align-items: center;
   padding: 50px 0;
+  height: 400px;
+}
+
+@media (max-width: 768px) {
+  .section_quotes {
+    height: 100%;
+  }
 }
 
 .paragraph {
