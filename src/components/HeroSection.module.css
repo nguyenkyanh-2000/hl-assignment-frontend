@@ -1,0 +1,16 @@
+.section_hero {
+  width: 100%;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  background-color: rgba(41, 179, 99, 255);
+  color: white;
+}
+
+.heading {
+  font-size: 40px;
+  letter-spacing: 2px;
+}

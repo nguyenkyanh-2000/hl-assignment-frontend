@@ -1,0 +1,20 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+
+  max-width: 50%;
+  margin: auto;
+}
+
+.paragraph {
+  text-align: center;
+  color: gray;
+}
+
+.horizontal_ruler {
+  width: 100vw;
+  border-top: 1px solid gray;
+}
